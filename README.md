@@ -34,6 +34,7 @@
  style.css – Arquivo de estilo que define a aparência visual do site (cores, fontes, espaçamentos, etc.), mantendo uma identidade visual harmônica entre todas as páginas.
 
 • Licença do site
+ 
  O site possui licença Creative Commons, permitindo o uso educacional, desde que seja sem fins lucrativos e com os devidos créditos ao autor original.
 
  É ideal para ser utilizado em atividades escolares, apresentações e projetos educacionais, promovendo o aprendizado sobre sustentabilidade, economia e cidadania.
